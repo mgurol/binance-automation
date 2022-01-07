@@ -1,1 +1,3 @@
 # binance-automation
+
+hi! :)
